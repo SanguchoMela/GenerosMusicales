@@ -68,7 +68,6 @@ public class Genero {
     //---------------------------------
     //metodo para imprimir datos de cualquier objeto
     public void imprimirDatos(){
-        //Hola a todos
         System.out.println(this.tipo);
         System.out.println(this.ritmo);
         System.out.println(this.anio);
